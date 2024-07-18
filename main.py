@@ -14,7 +14,7 @@ def predict(features):
 st.title("Stress Level Prediction")
 
 # Add custom CSS for background image
-background_image_url = 'https://c8.alamy.com/comp/2J2J845/tired-business-person-reducing-level-of-stress-cartoon-character-pulling-arrow-measure-of-stress-at-work-flat-vector-illustration-stress-crisis-p-2J2J845.jpg'  # Replace with your image URL
+background_image_url = 'https://static.vecteezy.com/system/resources/thumbnails/016/467/093/original/animated-stressed-male-character-panic-anxiety-despair-emotion-full-body-flat-person-on-black-background-with-alpha-channel-transparency-colorful-cartoon-style-hd-footage-for-animation-video.jpg'  # Replace with your image URL
 st.markdown(
     f"""
     <style>
